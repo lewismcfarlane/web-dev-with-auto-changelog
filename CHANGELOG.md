@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/lewismcfarlane/web-dev-with-auto-changelog/compare/v1.1.0...v1.2.0) (2023-09-21)
+
+
+### Features
+
+* format landing page ([088a473](https://github.com/lewismcfarlane/web-dev-with-auto-changelog/commit/088a473b6759311336c5903e0060c9f04fab9e76))
+
 ## 1.1.0 (2023-09-21)
 
 
